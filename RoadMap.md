@@ -5,4 +5,4 @@
 - 基于gin编写Demo
 
 ### 项目日志
--- 2020.02.29 [server license](https://github.com/AlanShoreIsHere/goweb/new/master/license_server). 
+- 2020.02.29 [server license](https://github.com/AlanShoreIsHere/goweb/new/master/license_server). 
